@@ -1,2 +1,2 @@
-This is a test to see if this is working.
 # GoGoGrandmas
+This is the repository we will be using for the Go Go Grandmas Game.
