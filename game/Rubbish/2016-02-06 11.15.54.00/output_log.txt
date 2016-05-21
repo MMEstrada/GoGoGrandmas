@@ -1,0 +1,7 @@
+Mono path[0] = 'E:/GGG Dev/GGG_Data/Managed'
+Mono path[1] = 'E:/GGG Dev/GGG_Data/Mono'
+Mono config path = 'E:/GGG Dev/GGG_Data/Mono/etc'
+PlayerConnection initialized from E:/GGG Dev/GGG_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55253
+Multi-casting "[IP] 192.168.1.2 [Port] 55253 [Flags] 3 [Guid] 2861975522 [EditorId] 4044421086 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-TF4LRO4) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.1.2:55253]...
