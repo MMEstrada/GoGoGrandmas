@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/training room 2.unity
+- path: Assets/Scenes/level-redesign.unity
   isLoaded: 1
   isActive: 1
