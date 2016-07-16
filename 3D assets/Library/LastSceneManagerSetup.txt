@@ -1,0 +1,4 @@
+sceneSetups:
+- path: game2D/Assets/Scenes/training room 2.unity
+  isLoaded: 1
+  isActive: 1
