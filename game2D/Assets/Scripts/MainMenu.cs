@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class MainMenu : MonoBehaviour {
@@ -15,17 +16,17 @@ public class MainMenu : MonoBehaviour {
 
         if (Input.GetButtonDown("NewGame"))
         {
-            Application.LoadLevel(1);
+            SceneManager.LoadScene(3);
         }
 
         if (Input.GetButtonDown("LoadGame"))
         {
-            Application.LoadLevel(2);
+            SceneManager.LoadScene(2);
         }
 
         if (Input.GetButtonDown("Options"))
         {
-            Application.LoadLevel(3);
+            SceneManager.LoadScene(1);
         }
 
         if (Input.GetButtonDown("ExitGame"))
