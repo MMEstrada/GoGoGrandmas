@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SaveMenu.unity
+- path: Assets/Scenes/Training Room 1.unity
   isLoaded: 1
   isActive: 1
