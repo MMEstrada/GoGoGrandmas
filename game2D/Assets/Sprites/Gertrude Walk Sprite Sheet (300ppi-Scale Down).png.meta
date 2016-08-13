@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 66b6df73cccb49d49a7a2c4e3c3e027d
+timeCreated: 1471131074
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_0
+    21300002: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_1
+    21300004: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_2
+    21300006: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_3
+    21300008: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_4
+    21300010: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_5
+    21300012: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_6
+    21300014: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_7
+    21300016: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_8
+    21300018: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_9
+    21300020: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_10
+    21300022: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_11
+    21300024: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 384
+        width: 200
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -27}
+        - {x: 72, y: 34}
+        - {x: 84, y: 71}
+        - {x: 86, y: 122}
+        - {x: 48, y: 176}
+        - {x: 40, y: 177}
+        - {x: -11, y: 177}
+        - {x: -42, y: 166}
+        - {x: -75, y: 109}
+        - {x: -59, y: 18}
+        - {x: -100, y: -31}
+        - {x: -100, y: -49}
+        - {x: -73, y: -76}
+        - {x: -61, y: -122}
+        - {x: -59, y: -164}
+        - {x: -5, y: -177}
+        - {x: 75, y: -177}
+        - {x: 100, y: -152}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 201
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.5, y: -24}
+        - {x: 72.5, y: 55}
+        - {x: 82.5, y: 78}
+        - {x: 84.5, y: 125}
+        - {x: 61.5, y: 162}
+        - {x: 41.5, y: 177}
+        - {x: -18.5, y: 177}
+        - {x: -41.5, y: 173}
+        - {x: -71.5, y: 119}
+        - {x: -70.5, y: 15}
+        - {x: -100.5, y: -32}
+        - {x: -100.5, y: -74}
+        - {x: -71.5, y: -157}
+        - {x: -26.5, y: -177}
+        - {x: 76.5, y: -177}
+        - {x: 97.5, y: -149}
+        - {x: 84.5, y: -106}
+        - {x: 100.5, y: -73}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 384
+        width: 200
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: 55}
+        - {x: 85, y: 79}
+        - {x: 80, y: 135}
+        - {x: 49, y: 175}
+        - {x: 37, y: 177}
+        - {x: -7, y: 177}
+        - {x: -49, y: 156}
+        - {x: -75, y: 97}
+        - {x: -81, y: -31}
+        - {x: -96, y: -32}
+        - {x: -100, y: -37}
+        - {x: -100, y: -57}
+        - {x: -51, y: -87}
+        - {x: -59, y: -155}
+        - {x: -30, y: -176}
+        - {x: -24, y: -177}
+        - {x: 83, y: -177}
+        - {x: 99, y: -134}
+        - {x: 100, y: -132}
+        - {x: 100, y: -2}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 384
+        width: 201
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 40}
+        - {x: 81.5, y: 75}
+        - {x: 84.5, y: 123}
+        - {x: 56.5, y: 165}
+        - {x: 42.5, y: 177}
+        - {x: -4.5, y: 177}
+        - {x: -47.5, y: 168}
+        - {x: -75.5, y: 97}
+        - {x: -60.5, y: 4}
+        - {x: -100.5, y: -35}
+        - {x: -100.5, y: -53}
+        - {x: -61.5, y: -85}
+        - {x: -61.5, y: -153}
+        - {x: -26.5, y: -174}
+        - {x: 10.5, y: -177}
+        - {x: 70.5, y: -177}
+        - {x: 96.5, y: -146}
+        - {x: 100.5, y: -87}
+        - {x: 100.5, y: -22}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_4
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 384
+        width: 212
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -61}
+        - {x: 106, y: -17}
+        - {x: 69, y: 27}
+        - {x: 78, y: 93}
+        - {x: 80, y: 129}
+        - {x: 45, y: 177}
+        - {x: -23, y: 177}
+        - {x: -61, y: 152}
+        - {x: -77, y: 97}
+        - {x: -69, y: 60}
+        - {x: -106, y: -14}
+        - {x: -106, y: -54}
+        - {x: -71, y: -95}
+        - {x: -67, y: -149}
+        - {x: -31, y: -176}
+        - {x: -17, y: -177}
+        - {x: 70, y: -177}
+        - {x: 96, y: -147}
+        - {x: 78, y: -72}
+        - {x: 103, y: -71}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_5
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 385
+        width: 210
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: -57.5}
+        - {x: 66, y: -58.5}
+        - {x: 69, y: -62.5}
+        - {x: 70, y: -66.5}
+        - {x: 73, y: -70.5}
+        - {x: 100, y: -78.5}
+        - {x: 105, y: -66.5}
+        - {x: 105, y: 29.5}
+        - {x: 80, y: 127.5}
+        - {x: 74, y: 176.5}
+        - {x: -67, y: 176.5}
+        - {x: -81, y: 118.5}
+        - {x: -105, y: 11.5}
+        - {x: -105, y: -62.5}
+        - {x: -74, y: -159.5}
+        - {x: -17, y: -176.5}
+        - {x: 70, y: -176.5}
+        - {x: 96, y: -139.5}
+        - {x: 67, y: -60.5}
+        - {x: 66, y: -59.5}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_6
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 386
+        width: 207
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: -62}
+        - {x: 63.5, y: -59}
+        - {x: 63.5, y: -58}
+        - {x: 66.5, y: -63}
+        - {x: 66.5, y: -65}
+        - {x: 70.5, y: -73}
+        - {x: 97.5, y: -81}
+        - {x: 103.5, y: -66}
+        - {x: 103.5, y: 85}
+        - {x: 93.5, y: 176}
+        - {x: -70.5, y: 176}
+        - {x: -103.5, y: -24}
+        - {x: -103.5, y: -54}
+        - {x: -88.5, y: -74}
+        - {x: -70.5, y: -157}
+        - {x: -36.5, y: -176}
+        - {x: 82.5, y: -176}
+        - {x: 98.5, y: -141}
+        - {x: 68.5, y: -71}
+        - {x: 67.5, y: -70}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 200
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -16.5}
+        - {x: 70, y: 54.5}
+        - {x: 80, y: 81.5}
+        - {x: 85, y: 118.5}
+        - {x: 61, y: 171.5}
+        - {x: 41, y: 176.5}
+        - {x: -22, y: 176.5}
+        - {x: -45, y: 166.5}
+        - {x: -81, y: 110.5}
+        - {x: -73, y: -23.5}
+        - {x: -97, y: -29.5}
+        - {x: -100, y: -37.5}
+        - {x: -100, y: -59.5}
+        - {x: -53, y: -87.5}
+        - {x: -58, y: -155.5}
+        - {x: -17, y: -176.5}
+        - {x: 43, y: -176.5}
+        - {x: 82, y: -170.5}
+        - {x: 90, y: -165.5}
+        - {x: 96, y: -104.5}
+        - {x: 100, y: -79.5}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 188
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: 111}
+        - {x: 62, y: 163}
+        - {x: 45, y: 176}
+        - {x: -7, y: 176}
+        - {x: -54, y: 159}
+        - {x: -74, y: 98}
+        - {x: -63, y: 57}
+        - {x: -61, y: 55}
+        - {x: -75, y: -41}
+        - {x: -94, y: -45}
+        - {x: -94, y: -65}
+        - {x: -93, y: -65}
+        - {x: -49, y: -94}
+        - {x: -63, y: -167}
+        - {x: -26, y: -176}
+        - {x: 44, y: -176}
+        - {x: 94, y: -163}
+        - {x: 94, y: -20}
+        - {x: 74, y: 54}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 183
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.5, y: 13}
+        - {x: 83.5, y: 114}
+        - {x: 55.5, y: 167}
+        - {x: 38.5, y: 177}
+        - {x: -14.5, y: 177}
+        - {x: -44.5, y: 170}
+        - {x: -63.5, y: 140}
+        - {x: -76.5, y: 92}
+        - {x: -65.5, y: 5}
+        - {x: -91.5, y: -42}
+        - {x: -91.5, y: -70}
+        - {x: -60.5, y: -150}
+        - {x: -57.5, y: -158}
+        - {x: -30.5, y: -176}
+        - {x: -23.5, y: -177}
+        - {x: 49.5, y: -177}
+        - {x: 82.5, y: -166}
+        - {x: 91.5, y: -162}
+        - {x: 91.5, y: -39}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 9
+        width: 185
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: 129}
+        - {x: 45.5, y: 174}
+        - {x: 38.5, y: 176}
+        - {x: -17.5, y: 176}
+        - {x: -56.5, y: 153}
+        - {x: -81.5, y: 121}
+        - {x: -80.5, y: 55}
+        - {x: -92.5, y: -45}
+        - {x: -92.5, y: -68}
+        - {x: -86.5, y: -71}
+        - {x: -57.5, y: -82}
+        - {x: -62.5, y: -151}
+        - {x: -60.5, y: -159}
+        - {x: -31.5, y: -175}
+        - {x: -26.5, y: -176}
+        - {x: 92.5, y: -176}
+        - {x: 92.5, y: -24}
+        - {x: 70.5, y: 38}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 9
+        width: 191
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.5, y: -24.5}
+        - {x: 74.5, y: 52.5}
+        - {x: 86.5, y: 123.5}
+        - {x: 61.5, y: 169.5}
+        - {x: 41.5, y: 175.5}
+        - {x: -17.5, y: 175.5}
+        - {x: -43.5, y: 160.5}
+        - {x: -77.5, y: 106.5}
+        - {x: -70.5, y: -30.5}
+        - {x: -94.5, y: -43.5}
+        - {x: -95.5, y: -46.5}
+        - {x: -95.5, y: -66.5}
+        - {x: -42.5, y: -95.5}
+        - {x: -56.5, y: -156.5}
+        - {x: -32.5, y: -175.5}
+        - {x: 94.5, y: -175.5}
+        - {x: 92.5, y: -166.5}
+        - {x: 92.5, y: -162.5}
+        - {x: 95.5, y: -144.5}
+    - name: Gertrude Walk Sprite Sheet (300ppi-Scale Down)_12
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 9
+        width: 195
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 14.5}
+        - {x: 81.5, y: 124.5}
+        - {x: 47.5, y: 168.5}
+        - {x: 30.5, y: 174.5}
+        - {x: -1.5, y: 174.5}
+        - {x: -54.5, y: 158.5}
+        - {x: -76.5, y: 89.5}
+        - {x: -67.5, y: 27.5}
+        - {x: -97.5, y: -42.5}
+        - {x: -97.5, y: -68.5}
+        - {x: -74.5, y: -76.5}
+        - {x: -62.5, y: -80.5}
+        - {x: -54.5, y: -82.5}
+        - {x: -70.5, y: -156.5}
+        - {x: -27.5, y: -174.5}
+        - {x: 77.5, y: -174.5}
+        - {x: 82.5, y: -173.5}
+        - {x: 95.5, y: -149.5}
+        - {x: 93.5, y: -142.5}
+        - {x: 97.5, y: -124.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
