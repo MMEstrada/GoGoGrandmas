@@ -90,10 +90,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="game2D.CSharp.Plugins.csproj">
-      <Project>{F0DEB7F5-0B98-3A1C-EB1C-A0C5D09387E7}</Project>
-      <Name>game2D.CSharp.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="game2D.CSharp.csproj">
       <Project>{F20D06CC-77DD-126D-80E1-78A006DE121B}</Project>
       <Name>game2D.CSharp</Name>
@@ -101,9 +97,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
